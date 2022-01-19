@@ -1,6 +1,6 @@
 ### Hi there,
  I'm Mitchel Okomor 👋
-A Passionate Full-Stack Developer with proven ability in optimizing web funtional that improves data retrieval and workflow efficiency.
+A Passionate Full-Stack Developer with proven ability in optimizing web applications and increase efficiency.
 
 One thing i'm most concern about is the sense of duty when i am assigned a task, i feel obligated to complete it especially if it entails problem solving, research or building something new.
 
