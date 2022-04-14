@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Mitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchel-okomor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Mitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchel-okomor&theme=dark)](https://github.com/mitchel-okomor/github-readme-stats)
