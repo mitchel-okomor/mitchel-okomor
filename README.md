@@ -1,16 +1,9 @@
 ### Hi there,
- I'm Mitchel Okomor 👋
-A Passionate Full-Stack Developer with proven ability in optimizing web applications and increase efficiency.
-
-One thing i'm most concern about is the sense of duty when i am assigned a task, i feel obligated to complete it especially if it entails problem solving, research or building something new.
-
-I am currently working as a front-end engineer, my motivation is to use my web development skills to develop result driven apps which offers maximum business solutions and sustained clients satisfaction. 
-When i am not coding i learn how to play the piano, watch football or play video games.
-
-🔭 I’m currently working on my teaching young people how to code...
-🌱 I’m currently learning Backend development
-👯 I’m looking to collaborate on any interesting project that involves NodeJS.
-🤔 I’m looking for help with system design and design patterns.
+I'm Mitchel Okomor 👋
+A Passionate software Developer with proven ability in optimizing web applications and increase efficiency.
+Good number of active years of experience in the software engineering industry with good knowledge of JavaScript, Typescript, NodeJS, ReactJS, MYSQL, MongoDB and microservices technology stacks. 
+Over the years, I have provided my services to SMEs and Large enterprises and have contributed to building several technology solutions that solve specific problems in industries like Management, Consulting, Education, Information, Fin-tech and General Technology.
+I am a proud team player focused on achieving project objectives with speed and accuracy.
 <!--
 **mitchel-okomor/mitchel-okomor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
