@@ -1,8 +1,8 @@
 ### Hi there,
 I'm Mitchel Okomor 👋
-A Passionate software Developer with proven ability in optimizing web applications and increase efficiency.
-Good number of active years of experience in the software engineering industry with good knowledge of JavaScript, Typescript, NodeJS, ReactJS, MYSQL, MongoDB and microservices technology stacks. 
-Over the years, I have provided my services to SMEs and Large enterprises and have contributed to building several technology solutions that solve specific problems in industries like Management, Consulting, Education, Information, Fin-tech and General Technology.
+A Passionate software Developer with proven ability to build optimizing web applications and increase efficiency.
+Good number of active years of experience in the software engineering industry with good knowledge of JavaScript, Typescript, NodeJS, nestjs ReactJS, java, Springboot,  MYSQL, MongoDB and microservices technology stacks. 
+Over the years, I have provided my services to SMEs and Large enterprises and have contributed to building several technology solutions that solve specific problems in industries like Management, Consulting, Education, Information, Fintech and General Technology.
 I am a proud team player focused on achieving project objectives with speed and accuracy.
 <!--
 **mitchel-okomor/mitchel-okomor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
